@@ -17,4 +17,5 @@ dependencies = [
     "google-search-results>=2.4.2",
     "scikit-image>=0.22.0",
     "matplotlib>=3.8.4"
+    ,"ipywidgets>=8.1.2"
 ]
